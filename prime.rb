@@ -1,8 +1,8 @@
 # Add  code here!
 def prime?(int)
-  if int % (2..10) == 0
-    true 
-  else
-    false 
-  end
-end
+  remainders = []
+   for i in (1..num)
+     remainders.push(i) if num % i == 0
+   end
+   remainders.size == 2 ? true : false
+ end
