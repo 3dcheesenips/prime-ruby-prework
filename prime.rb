@@ -7,6 +7,5 @@ for i in (2..int)
  if (n % 2) == 0 
    return false
  end
- end
  true 
  end
