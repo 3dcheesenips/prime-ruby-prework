@@ -3,4 +3,4 @@ def prime?(int)
   if int <= 1 
     return false 
   end
-  for i 
+  for i in (2...)
