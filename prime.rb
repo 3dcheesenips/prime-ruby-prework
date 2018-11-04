@@ -1,3 +1,3 @@
 # Add  code here!
 def prime?(int)
-  if 
+  if int <= 1 
